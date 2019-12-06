@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bruce Edelman"
-  avatar           : "00100lPORTRAIT_00100_BURST20190830110855205_COVER.jpg"
+  avatar           : "avatar.png"
   bio              : "Astrophysics PhD Student at Univerity of Oregon, interested in all things politics, stats, bayesian, and astronomy!"
   location         : "Eugene, Oregon"
   employer         : "University of Oregon"
@@ -97,6 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "bruce-edelman"
+  gitlab           : "bruce.edelman"
   google_plus      :
   keybase          :
   instagram        : "fiercesandpiper"
