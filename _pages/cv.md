@@ -17,11 +17,34 @@ Education
 
 Work experience
 ======
-TO BE FILLED IN
+* Graduate Research Assisstant (June 2018 - Present)
+  * University of Oregon
+  * Advisor: Ben Farr
+  * I work as a member of the LIGO science collaboration doing gravitational wave data analsys research under Professor Ben Farr.
+  
+* Graduate Teaching Assisstant (Sep 2017 - June 2019)
+  * University of Oregon
+  * I was a graduate teaching assistant for various intro physics and astronomy courses during my first two years in graduate school at the University of Oregon.
+
+*  Undergraduate Research Assisstant (Jan 2016 - Aug 2017)
+  * Purdue University
+  * I spent 3 semesters and 2 summers as a research assisdant in Professor Chen-Lung Hung's ultracold atom lab at Purdue University. I was responsible for building various electronic/optic/laser systems as a part of getting the atom trapping experiments set up to trap both rubidium and cesium atoms in UHV
   
 Skills
 ======
-TO BE FILLED IN
+* Software/Programming Languages
+  * Python 
+  * Shell
+  * C / C++
+  * R
+  * Matlab
+  * Unix/Linux
+* Bayesian Statistics
+* Machine Learning
+  * Tensorflow
+  * keras
+  * pytorch
+  * sklearn
 
 Publications
 ======
