@@ -2,7 +2,7 @@
 title: "Phyiscs 153 - Physics of Light and Color"
 collection: teaching
 type: "Grading Appointment"
-permalink: /teaching/2018-Spring.md
+permalink: /teaching/2018-Spring
 venue: "University of Oregon, Department of Physics"
 date: 2018-04-10
 location: "Eugene, OR"
