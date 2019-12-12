@@ -2,7 +2,7 @@
 title: "Phyiscs 205"
 collection: teaching
 type: "Lab Class"
-permalink: /teaching/2018-Winter_Teaching
+permalink: /teaching/2018-Winter
 venue: "University of Oregon, Department of Physics"
 date: 2018-01-05
 location: "Eugene, OR"
