@@ -26,7 +26,7 @@ Work experience
   * University of Oregon
   * I was a graduate teaching assistant for various intro physics and astronomy courses during my first two years in graduate school at the University of Oregon.
 
-*  Undergraduate Research Assisstant (Jan 2016 - Aug 2017)
+* Undergraduate Research Assisstant (Jan 2016 - Aug 2017)
   * Purdue University
   * I spent 3 semesters and 2 summers as a research assisdant in Professor Chen-Lung Hung's ultracold atom lab at Purdue University. I was responsible for building various electronic/optic/laser systems as a part of getting the atom trapping experiments set up to trap both rubidium and cesium atoms in UHV
   
