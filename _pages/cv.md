@@ -29,12 +29,19 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software/Programming Languages
+  * Python 
+  * Shell
+  * C / C++
+  * R
+  * Matlab
+  * Unix/Linux
+* Bayesian Statistics
+* Machine Learning
+  * Tensorflow
+  * keras
+  * pytorch
+  * sklearn
 
 Publications
 ======
