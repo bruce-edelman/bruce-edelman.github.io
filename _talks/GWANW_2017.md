@@ -9,6 +9,9 @@
 		+---
 		+
 		+I gave a talk summarizing my current research in gravitational wave data analysis. Specifically thi tak covers a project in where I was able to create a model to desribe and fit general deviations of gravitiational wave data from General Relativity or current LIGO modeled waveforms.
+		
+		[slides](https://bruce-edelman.github.io/files/SearchingForUnmodeledPhysics.pdf)
+		
 		+
 		+Headings
 		+======
