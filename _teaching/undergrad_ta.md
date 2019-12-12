@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Teaching Assisstant"
 permalink: /teaching/undergrad_ta
 venue: "Purdue University, Department of Physics and Astronomy"
-date: 2016-08-20
+date: 2016-08-20 - 2017-05-10
 location: "West Lafayette, IN"
 ---
 
