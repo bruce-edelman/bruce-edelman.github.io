@@ -10,7 +10,7 @@ redirect_from:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/mountain.jpg
+  overlay_image: /images/mt_wash.jpg
 ---
 
 
