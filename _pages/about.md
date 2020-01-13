@@ -7,7 +7,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-image: mt_wash.jpg
+header:
+  overlay_image: mt_wash.jpg
+  image: mt_wash.jpg
+  
 ---
 
 
