@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  overlay_image: /images/mt_wash.jpg
+  image: /images/mt_wash.jpg
 ---
 
 
